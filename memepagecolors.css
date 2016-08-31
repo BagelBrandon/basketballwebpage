@@ -1,0 +1,31 @@
+body {
+	background-color: #000000;
+	max-width: 700px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 10px;
+}
+
+h1 {
+	color: #cc33ff;
+	text-align: center;
+	font-size: 60px;
+	font-family: 'Baloo Paaji', cursive;
+}
+
+p {
+	font-size: 20px;
+	color: #ffff00;
+	font-family: 'Baloo Paaji', cursive;
+} 
+
+h2 {
+	color: #cc33ff;
+	text-align: center;
+	font-size: 60px;
+	font-family: 'Baloo Paaji', cursive;
+}
+
+a:link {
+	color: #cc33ff;
+}
